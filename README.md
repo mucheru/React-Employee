@@ -63,9 +63,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)![Screenshot from 2023-04-14 13-31-47](https://user-images.githubusercontent.com/13763343/232021265-aaf55f63-f4a3-4aa3-860c-43c5e465ded6.png)
+
 
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # React-Employee
+![Screenshot from 2023-04-14 13-31-47](https://user-images.githubusercontent.com/13763343/232021336-cbec4518-1e64-41d5-b40f-784759f699d7.png)
+
+db.json --This file is for mock server.To run it execute "json-server --watch db.json"
